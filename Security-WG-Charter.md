@@ -28,8 +28,11 @@ EOY 2024 Goals
 - Add secure (vulnerability) reporting process [4].
 
 [1] https://www.bestpractices.dev/en
+
 [2] https://github.com/ossf/scorecard
+
 [3] https://confidentialcomputing.io/
+
 [4] https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md
 
 
