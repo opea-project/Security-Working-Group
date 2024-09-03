@@ -43,3 +43,7 @@ requests to the main repositories.
 In rare cases where the working group may need to make decisions outside of existing processes
 we will prefer consensus decision making and escalate to the TSC as needed.
 
+## Join
+- [OPEA Security WG Mailing List](https://lists.lfaidata.foundation/g/OPEA-security)
+- [#opea-security Slack channel](https://lfaifoundation.slack.com/archives/C078FJQ7EKC)
+
